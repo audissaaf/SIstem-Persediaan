@@ -4,6 +4,7 @@ Merupakan sistem pencatatan persediaan dengan berbagai fitur mengenai stok perse
 # Flowchart
 
 # Database
+![Screenshot (505)](https://github.com/audissaaf/SIstem-Persediaan/assets/152130379/6c03385e-c6b1-48be-8ede-d10d43f504b7)
 
 # Structure
 ![Screenshot (504)](https://github.com/audissaaf/SIstem-Persediaan/assets/152130379/67d420a5-1e35-414f-a22d-a82c641838d4)
