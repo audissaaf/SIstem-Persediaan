@@ -13,12 +13,13 @@ Merupakan sistem pencatatan persediaan dengan berbagai fitur mengenai stok perse
 ![Screenshot (503)](https://github.com/audissaaf/SIstem-Persediaan/assets/152130379/0681eef4-da2b-4a4e-9f9e-abfc915dcbae)
 
 # Langkah Pengoperasian
-1. Run cd Inventory
-2. Copy .env.example file to .env and edit Database credentials there
-3. Run composer install
-Run php artisan key:generate
-Run php artisan migrate
-Run npm install
-Run php artisan serve
+1. Clone repository dengan menggunakan git clone https://github.com/audissaaf/SIstem-Persediaan
+2. Run cd Inventory
+3. Copy .env.example file to .env and edit Database credentials there
+4. Run composer install
+5. Run php artisan key:generate
+6. Run php artisan migrate
+7. Run npm install
+8. Run php artisan serve
 
 
