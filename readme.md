@@ -2,6 +2,7 @@
 Merupakan sistem pencatatan persediaan dengan berbagai fitur mengenai stok persediaan, kategori, supplier, customer dan masih terdapat beberapa fitur lainnya yang dapat membantu mempercepat proses pencatatan persediaan
 
 # Flowchart
+![WhatsApp Image 2023-12-04 at 07 18 08](https://github.com/audissaaf/SIstem-Persediaan/assets/152130379/8aba3818-4112-485d-a7ef-eef865c77dad)
 
 # Database
 ![Screenshot (505)](https://github.com/audissaaf/SIstem-Persediaan/assets/152130379/6c03385e-c6b1-48be-8ede-d10d43f504b7)
